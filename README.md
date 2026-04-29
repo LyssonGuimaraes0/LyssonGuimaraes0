@@ -19,6 +19,7 @@ Tenho interesse em construir sistemas organizados, escaláveis e próximos de am
 
 * PHP (PDO, MVC)
 * JavaScript (AJAX)
+* Java (em aprendizado)
 * MySQL
 * Docker
 * Composer
@@ -35,7 +36,7 @@ Tenho interesse em construir sistemas organizados, escaláveis e próximos de am
 
 ## 📂 Projetos em destaque
 
-* 🔄 Sistema de Horarios(Em processo de atualizacão para arquitetura MVC)
+* ⏰ Sistema de Horarios(Em processo de atualizacão para arquitetura MVC)
 * 🏠 Sistema Imobiliário (Em desenvolvimento)
 
 ---
